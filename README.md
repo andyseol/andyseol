@@ -6,5 +6,6 @@ Andy J. Seol
 (Jun 2009 - Jul 2011) Sergeant, Republic of Korea Air Force, South Korea
 
 2. Education  
-(Apr 2017 - Mar 2019) MSc in Chemical System Engineering, The University of Tokyo, Japan (Concentration: Chemoinformatics)  
+(Apr 2017 - Mar 2019) MSc in Chemical System Engineering, The University of Tokyo, Japan  
+[Concentration: Chemoinformatics]  
 (Mar 2007 - Feb 2015) BSc in Chemical Engineering, Sungkyunkwan University, South Korea  
