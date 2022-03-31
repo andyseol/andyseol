@@ -2,6 +2,7 @@ Andy J. Seol
 
 1. Experience
 (Apr 2019 - Present)  Senior Staff, International Strategy Group, Management Planning Department, The University of Tokyo, Japan
+
 (Jan 2015 - Jul 2016) Research Staff, Gypsum Board Technical Team, KCC Corporation, South Korea
 (Jun 2009 - Jul 2011) Sergeant, Republic of Korea Air Force, South Korea
 
